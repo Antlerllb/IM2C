@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 
 from util.path_util import PathUtil
-from util.style_setting import PlotUtil
-from common.input_path import InputPath
 
 class plot_8(object):
     dpi=300
